@@ -1,0 +1,87 @@
+body{
+    background: hwb(56 81% 3%);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    margin-left: 10%;
+    margin-right: auto;
+    
+}
+
+
+.header {
+    font-size: 40px;
+}
+
+.banner {
+   width: 600px;
+   position: relative;
+   right: -270px;
+   top: -20px;
+   offset-anchor: 500px; 
+   border: solid 5px;   
+   border-color: black; 
+}
+
+
+#navbar {
+    background-color: rgb(252, 252, 192);
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    position: relative;
+    top:  -650px;
+    border: solid 5px;
+    border-color: black;  
+}
+
+.navlist {
+    list-style-type: none;
+    position: relative;
+    right: 20px;
+    text-align: center; 
+}
+
+#ingredientes {
+    background-color: rgb(252, 252, 192);
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    position: relative;
+    top:  -400px;
+    border: solid 5px;
+    border-color: black;  
+}
+
+.inglist {
+    list-style-type: none;
+    position: relative;
+    right: 20px;
+    text-align: center; 
+}
+
+#instrucciones {
+    background-color: rgb(252, 252, 192);
+    width: 800px;
+    height: 300px;
+    text-align: center;
+    position: relative;
+    top:  -250px;
+    border: solid 5px;
+    border-color: black;  
+}
+
+.inslist {
+    
+    position: relative;
+    right: 20px;
+    text-align: center; 
+}
+.navlist a {
+    text-decoration: none;
+    color: black;
+}
+
+.food {
+    top: 0px;
+
+}
